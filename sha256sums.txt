@@ -1,3 +1,7 @@
+6f5bf4b7d8affc32397d88b03568ebce911cc50eb89e3a083325fdee01dab6ee *./openwrt-19.07.7-tl-wr703n-v1-16m/openwrt-19.07.7-ar71xx-generic-tl-wr703n-v1-squashfs-sysupgrade.bin
+1df14f22d7bca7e61f50b1ac01a4797f914cc335e7b78d8078465cefe78e4dc0 *./openwrt-19.07.7-tl-wr703n-v1-16m/profiles.json
+8fa96a5138830510497db80c4ef9aa0513876d2181bda8f642f2bd13d0c93dd9 *./openwrt-19.07.7-tl-wr703n-v1-16m/openwrt-19.07.7-ar71xx-generic-tl-wr703n-v1-squashfs-factory.bin
+9ba7005639ecd27414c8c3e2615878549a550810bffb9cc9d112b34cf7196f0e *./openwrt-19.07.7-tl-wr703n-v1-16m/openwrt-19.07.7-ar71xx-generic-device-tl-wr703n-v1.manifest
 ee0f0922ea777a9058902cd935930b3730690605719c6b2027f8e72c6024876f *./openwrt-19.07.6-tl-wr703n-v1-16m/openwrt-19.07.6-ar71xx-generic-tl-wr703n-v1-squashfs-factory.bin
 42cb941cefeab7d4df14925c799aaf207db37528c35c046385ab8f4491cc7199 *./openwrt-19.07.6-tl-wr703n-v1-16m/openwrt-19.07.6-ar71xx-generic-device-tl-wr703n-v1.manifest
 d505a5d19264681af3adf16a054d28703158be16665650825a84834b2a3b6e44 *./openwrt-19.07.6-tl-wr703n-v1-16m/profiles.json
